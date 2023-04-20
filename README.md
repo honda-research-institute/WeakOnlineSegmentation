@@ -1,4 +1,4 @@
-# WeakOnlineSegmentation
+# Weakly Supervised Online Segmentation
 
 
 This is the code for the paper "Weakly Supervised Online Segmentation in Multiview Instructional Videos" accepted in CVPR 22.
