@@ -5,10 +5,15 @@ This is the code for the paper "Weakly Supervised Online Segmentation in Multivi
 
 
 Main Software Requirements:
-+PyTorch 1.9
-+Python 3.8
-+numpy among others
-+Ubuntu 18
+
+
++ PyTorch 1.9
+
++ Python 3.8
+
++ numpy among others
+
++ Ubuntu 18
 
 
 
