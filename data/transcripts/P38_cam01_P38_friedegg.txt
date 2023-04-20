@@ -1,0 +1,7 @@
+SIL
+crack_egg
+fry_egg
+add_saltnpepper
+take_plate
+put_egg2plate
+SIL

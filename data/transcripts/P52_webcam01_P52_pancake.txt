@@ -1,0 +1,9 @@
+SIL
+crack_egg
+butter_pan
+spoon_flour
+stir_dough
+pour_milk
+stir_dough
+pour_dough2pan
+SIL

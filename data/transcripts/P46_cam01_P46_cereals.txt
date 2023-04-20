@@ -1,0 +1,7 @@
+SIL
+take_bowl
+pour_cereals
+pour_cereals
+pour_milk
+stir_cereals
+SIL

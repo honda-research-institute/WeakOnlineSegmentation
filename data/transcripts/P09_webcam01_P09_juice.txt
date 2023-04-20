@@ -1,0 +1,7 @@
+SIL
+take_squeezer
+take_glass
+cut_orange
+squeeze_orange
+pour_juice
+SIL

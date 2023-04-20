@@ -1,0 +1,12 @@
+SIL
+take_plate
+take_knife
+peel_fruit
+take_bowl
+cut_fruit
+put_fruit2bowl
+cut_fruit
+put_fruit2bowl
+cut_fruit
+put_fruit2bowl
+SIL

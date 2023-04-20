@@ -1,0 +1,6 @@
+SIL
+crack_egg
+take_plate
+fry_egg
+put_egg2plate
+SIL

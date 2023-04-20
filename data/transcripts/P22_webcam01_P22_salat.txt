@@ -1,0 +1,10 @@
+SIL
+cut_fruit
+take_bowl
+put_fruit2bowl
+cut_fruit
+put_fruit2bowl
+cut_fruit
+put_fruit2bowl
+stir_fruit
+SIL

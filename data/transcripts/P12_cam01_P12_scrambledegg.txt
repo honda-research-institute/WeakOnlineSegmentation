@@ -1,0 +1,11 @@
+SIL
+crack_egg
+crack_egg
+add_saltnpepper
+stir_egg
+butter_pan
+pour_egg2pan
+take_plate
+stirfry_egg
+put_egg2plate
+SIL
