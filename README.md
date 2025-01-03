@@ -1,4 +1,4 @@
-# Weakly Supervised Online Action Segmentation
+# Weakly Supervised Online Action Segmentation in Multiview Instructional Videos
 
 
 This is the code for the paper "Weakly Supervised Online Action Segmentation in Multiview Instructional Videos" accepted in CVPR 22.
